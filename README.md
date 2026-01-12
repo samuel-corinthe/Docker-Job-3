@@ -22,6 +22,7 @@
   ![alt-text](image/gameplay1.png)
   ![alt-text](image/gameplay2.png)
   ![alt-text](image/gameplay3.png)
+  ![alt-text](image/Game_Over.png)
 
 - 2 Façons de trouver l'id:
   ![alt-text](image/id_1.png)
